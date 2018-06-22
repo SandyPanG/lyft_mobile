@@ -13,7 +13,30 @@
    margin: 50% 25%;
  }
 
+ /*  sección sign in */
+
+.sign {
+  background-image: url("../assets/images/car.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.first {
+  width: 30%;
+  height: auto;
+  margin-left: 40%;
+}
+
+.moustache {
+  margin-top: 25vh;
+  height: auto;
+  width: 300px;
+}
+
+/* Botones */
 
 
 
- /*  prueba para commit */
+.
